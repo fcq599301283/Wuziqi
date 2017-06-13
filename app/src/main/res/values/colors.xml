@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="b1">#353535</color>
+
+    <!--VI绿-->
+    <color name="vi_green">#33ffcc</color>
+    <!--VI蓝-->
+    <color name="vi_blue">#66CCFF</color>
+
+    <color name="green2">#06bc04</color>
+    <color name="g0">#888888</color>
+
+    <!--透明-->
+    <color name="transparent">#00000000</color>
+    <!--无按钮弹窗 90%-->
+    <color name="b5">#4c4c4c</color>
+    <!--白-->
+    <color name="w0">#FFFFFF</color>
+
+</resources>
